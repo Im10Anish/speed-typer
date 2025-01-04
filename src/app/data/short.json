@@ -1,0 +1,52 @@
+[
+  {
+    "id": "s1",
+    "text": "The quick brown fox jumps over the lazy dog.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "s2",
+    "text": "Success is not final, failure is not fatal.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "s3",
+    "text": "Practice makes perfect, perfect practice makes permanent.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "s4",
+    "text": "Be the change you wish to see in the world.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "s5",
+    "text": "Every moment is a fresh beginning in life.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "s6",
+    "text": "Where there's a will, there's always a way forward.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "s7",
+    "text": "Knowledge speaks, but wisdom listens patiently.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "s8",
+    "text": "Your future is created by what you do today.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "s9",
+    "text": "Quality is not an act, it is a consistent habit.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "s10",
+    "text": "The journey of a thousand miles begins with one step.",
+    "difficulty": "medium"
+  }
+]

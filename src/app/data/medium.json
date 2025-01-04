@@ -1,0 +1,52 @@
+[
+  {
+    "id": "m1",
+    "text": "Success is not final, failure is not fatal. It is the courage to continue that counts. Winston Churchill's words remind us of perseverance.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "m2",
+    "text": "In three words I can sum up everything I've learned about life: it goes on. Robert Frost captured the essence of resilience.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "m3",
+    "text": "The only way to do great work is to love what you do. If you haven't found it yet, keep looking. Don't settle for anything less.",
+    "difficulty": "hard"
+  },
+  {
+    "id": "m4",
+    "text": "Life is like riding a bicycle. To keep your balance, you must keep moving forward. Even through the toughest times, momentum is key.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "m5",
+    "text": "Education is not the filling of a pail, but the lighting of a fire. It's about inspiring minds to think differently and explore.",
+    "difficulty": "hard"
+  },
+  {
+    "id": "m6",
+    "text": "The best preparation for tomorrow is doing your best today. Focus on what you can control and let go of what you cannot.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "m7",
+    "text": "Success usually comes to those who are too busy to be looking for it. Hard work and dedication often lead to unexpected rewards.",
+    "difficulty": "hard"
+  },
+  {
+    "id": "m8",
+    "text": "Your time is limited, don't waste it living someone else's life. Have the courage to follow your heart and intuition.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "m9",
+    "text": "The difference between ordinary and extraordinary is that little extra effort you put in every single day of your journey.",
+    "difficulty": "hard"
+  },
+  {
+    "id": "m10",
+    "text": "The future belongs to those who believe in the beauty of their dreams. Dream big, work hard, and stay focused on your goals.",
+    "difficulty": "medium"
+  }
+]

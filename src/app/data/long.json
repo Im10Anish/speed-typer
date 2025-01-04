@@ -1,0 +1,52 @@
+[
+  {
+    "id": "l1",
+    "text": "The technological revolution has transformed how we live and work. From artificial intelligence to renewable energy, innovations reshape our world. As we face new challenges, adaptation becomes crucial for success in this rapidly evolving landscape.",
+    "difficulty": "hard"
+  },
+  {
+    "id": "l2",
+    "text": "In the vast expanse of human knowledge, every discovery opens new doors. Scientists and thinkers throughout history have built upon each other's work, creating a tapestry of ideas that shapes our understanding of the universe and our place within it.",
+    "difficulty": "expert"
+  },
+  {
+    "id": "l3",
+    "text": "Learning to code is like learning a new language. It requires patience, practice, and persistence. The syntax might seem challenging at first, but with time and dedication, patterns emerge and what once seemed complex becomes second nature.",
+    "difficulty": "hard"
+  },
+  {
+    "id": "l4",
+    "text": "The art of writing well is the art of thinking well. Clear writing reflects clear thinking, and both skills are essential in today's information-rich world. Take time to organize your thoughts before putting them into words.",
+    "difficulty": "expert"
+  },
+  {
+    "id": "l5",
+    "text": "Success in business requires training, discipline, and hard work. But if you're not frightened by these things, the opportunities are just as great today as they ever were. Innovation and perseverance drive progress.",
+    "difficulty": "hard"
+  },
+  {
+    "id": "l6",
+    "text": "The internet has revolutionized how we communicate, learn, and conduct business. It has connected people across continents, democratized information, and created new opportunities for innovation and collaboration in ways never before possible.",
+    "difficulty": "expert"
+  },
+  {
+    "id": "l7",
+    "text": "Environmental consciousness is no longer optional but a necessity for survival. As climate change affects our planet, we must adapt our lifestyle and industrial practices to ensure a sustainable future for coming generations.",
+    "difficulty": "hard"
+  },
+  {
+    "id": "l8",
+    "text": "The most effective leaders are those who lead by example and inspire others to achieve their full potential. They create an environment where creativity flourishes, innovation is encouraged, and mistakes are viewed as learning opportunities.",
+    "difficulty": "expert"
+  },
+  {
+    "id": "l9",
+    "text": "Artificial intelligence and machine learning are transforming industries at an unprecedented pace. From healthcare to transportation, these technologies are automating processes, improving efficiency, and creating new possibilities.",
+    "difficulty": "hard"
+  },
+  {
+    "id": "l10",
+    "text": "The pursuit of excellence is a continuous journey that requires dedication, resilience, and adaptability. It's not about being perfect, but about constant improvement and learning from both successes and failures along the way.",
+    "difficulty": "expert"
+  }
+]
